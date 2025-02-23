@@ -1,5 +1,5 @@
 ---
-description: Our process is different
+description: Our audit process is different
 ---
 
 # Audit Process

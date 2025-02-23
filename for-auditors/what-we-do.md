@@ -14,7 +14,7 @@ Our Private Audit is a meticulous examination of smart contracts using our modif
 
 #### 2.1 Audit Competition
 
-We actively participate in renowned competitions such as Code4rena, Sherlock, CodeHawks, and HatsFinance. Individual auditors are strongly encouraged to engage, earning scores based on their contributions. These scores not only influence future opportunities but also determine shares of the treasury, fostering a meritocratic environment.
+We actively participate in renowned competitions such as Code4rena, Sherlock, Cantina, and CodeHawks. Individual auditors are strongly encouraged to engage, earning scores based on their contributions. These scores not only influence future opportunities but also determine shares of the treasury, fostering a meritocratic environment.
 
 #### 2.2 Bug Bounty
 

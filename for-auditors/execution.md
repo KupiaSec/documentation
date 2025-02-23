@@ -20,12 +20,12 @@ The backbone of KupiaSec, our auditors, play a pivotal role in conducting securi
 
 * We execute the modified [MPA](https://mpa.solodit.xyz/) model, a comprehensive approach that includes a Solo Audit, an Internal Competition, and a Mitigation Review.
 * The lead auditor for a Private Audit is nominated based on their score and availability, ensuring that the most qualified individual leads the process.
-* The quote for a private audit is made public on our website, promoting transparency, and competitiveness in securing orders.
+* The quote for a private audit is made public, promoting transparency, and competitiveness in securing orders.
 
 #### 2. Audit Competition
 
-* Auditors are actively encouraged to participate in renowned competitions such as Code4rena, Sherlock, CodeHawks, and HatsFinance.
-* Scores are assigned based on earnings and ranking, influencing future opportunities and shares of the treasury for individual auditors.
+* Auditors are highly encouraged to participate in renowned competitions such as Code4rena, Sherlock, Cantina, and CodeHawks.
+* Scores are assigned based on earnings and ranking, influencing future opportunities.
 
 #### 3. Bug Bounty
 

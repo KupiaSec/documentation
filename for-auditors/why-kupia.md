@@ -22,6 +22,6 @@ Cooperation is at the core of our security reviews. Working together not only en
 
 Being part of KupiaSec opens doors to a diverse range of opportunities. As an auditor, you may lead private audits, participate in exclusive opportunities on competition platforms, and contribute to the organization's reputation by taking on CTF challenges. Your skills and achievements pave the way for a dynamic and fulfilling audit journey.
 
-###
+
 
 Join KupiaSec, where auditors take the lead, collaboration is valued, and your contributions shape the future of smart contract security. Experience a community-driven audit firm that recognizes, rewards, and empowers auditors. Ready to elevate your auditing career? Contact us and become part of the KupiaSec community.

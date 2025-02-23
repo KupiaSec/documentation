@@ -16,8 +16,6 @@ The backbone of KupiaSec, our auditors, play a pivotal role in conducting securi
 
 #### 1. Private Audit
 
-**1.1 Modified Multi-Phase Audit (MPA)**
-
 * We execute the modified [MPA](https://mpa.solodit.xyz/) model, a comprehensive approach that includes a Solo Audit, an Internal Competition, and a Mitigation Review.
 * The lead auditor for a Private Audit is nominated based on their score and availability, ensuring that the most qualified individual leads the process.
 * The quote for a private audit is made public, promoting transparency, and competitiveness in securing orders.

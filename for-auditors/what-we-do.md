@@ -12,15 +12,15 @@ Our Private Audit is a meticulous examination of smart contracts using our modif
 
 ### 2. Public Audit
 
-#### 2.1 Audit Competition
+#### 2.1. Audit Competition
 
 We actively participate in renowned competitions such as Code4rena, Sherlock, Cantina, and CodeHawks. Individual auditors are strongly encouraged to engage, earning scores based on their contributions. These scores not only influence future opportunities but also determine shares of the treasury, fostering a meritocratic environment.
 
-#### 2.2 Bug Bounty
+#### 2.2. Bug Bounty
 
 KupiaSec maintains a shared team account on major bug bounty platforms. Auditors are encouraged to submit findings, increasing the team's visibility and credibility. The rewards from bug bounty programs are 100% directed to the individual auditor who discovered the vulnerabilities, with the team available for mediation if needed.
 
-#### 2.3 CTF Challenges
+#### 2.3. CTF Challenges
 
 Participation in major Capture The Flag (CTF) challenges enhances our organization's reputation. While CTF challenges may not bring direct revenue, achieving top rankings contributes significantly to KupiaSec's standing in the security community.
 

@@ -10,8 +10,8 @@ By default, Kupia will organize a MPA process with the lead auditor selected bas
 
 Generally, each phase will be designed as below:
 
-* Phase 1 - Solo Audit by a Lead Auditor
-* Phase 2 - Internal Competition
+* Phase 1 - Solo Audit by a Lead
+* Phase 2 - Competitive Audit
 * Phase 3 - Mitigation Review
 
 The whole process is transparent.

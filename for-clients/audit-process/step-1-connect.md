@@ -14,7 +14,7 @@ $$Days=\lfloor SLOC/200 \rfloor$$
 
 $$Price=Days * \$2000$$
 
-For example, if the codebase has _1000_ lines of Solidity code, the quote will be _$10000_ / _5_ days.
+For example, if the codebase has 1000 lines of code, the quote will be $10000 / 5 days (1 week). A discount will be offered for the first review of the protocol.
 
 Fill in the form to provide more information that can help us understand your needs. Our team will get back to you and schedule a call.
 
